@@ -2,11 +2,11 @@
 
 Creacion de una Pagina Web Titulada El Master PC,  Universidad Don Bosco, El Salvador
 
-Herramientas 🛠️
+#Herramientas 🛠️
 
 [Visual Studio code] https://code.visualstudio.com/Download   como lenguaje de programación
 
-Autores ✒️
+#Autores ✒️
 
 Miguel Angel Herrera - Programación, diseño
 
@@ -18,12 +18,16 @@ Jorge Enrique Panamelo - Programación, diseño
 
 Axel Steven Chavarria - Programación, diseño
 
-Licencia 📄
+
+
+#Licencia 📄
 Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
 
 Usted es libre de: Compartir — copiar y redistribuir el material en cualquier medio o formato Adaptar — remezclar, transformar y construir a partir del material La licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia
 
-Enlaces de interés 👀
+
+
+#Enlaces de interés 👀
 
 [Tablero en Trello] https://trello.com/b/EfMchQY2/proyecto-lme
 
