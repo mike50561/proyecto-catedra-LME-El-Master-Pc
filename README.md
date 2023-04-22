@@ -2,11 +2,8 @@
 
 *Creacion de una Pagina Web Titulada El Master PC,  Universidad Don Bosco, El Salvador
 
-#Herramientas 🛠️
 
-*[Visual Studio code] https://code.visualstudio.com/Download   como lenguaje de programación
-
-#Autores ✒️
+#Integrantes de Trabajo LME GRUPO:09L ✒️
 
 *Miguel Angel Herrera - Programación, diseño
 
@@ -20,6 +17,14 @@
 
 
 
+#Enlaces de interés 👀
+
+*[Tablero en Trello] https://trello.com/b/EfMchQY2/proyecto-lme
+
+*[Enlace a Mockups] - https://www.figma.com/file/jIEq8Zc8N76wBPPl7nnpvG/Untitled?node-id=0%3A1&t=6lYG44PXbkx5KQdi-1
+
+
+
 #Licencia 📄
 Este proyecto está bajo la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0) Que establece:
 
@@ -27,8 +32,9 @@ Usted es libre de: Compartir — copiar y redistribuir el material en cualquier 
 
 
 
-#Enlaces de interés 👀
 
-*[Tablero en Trello] https://trello.com/b/EfMchQY2/proyecto-lme
 
-*[Enlace a Mockups] - https://www.figma.com/file/jIEq8Zc8N76wBPPl7nnpvG/Untitled?node-id=0%3A1&t=6lYG44PXbkx5KQdi-1
+
+#Herramientas 🛠️
+
+*[Visual Studio code] https://code.visualstudio.com/Download   como lenguaje de programación
