@@ -11,7 +11,7 @@
 
 *Diego Alberto Canizalez - Programación, diseño
 
-*Jorge Enrique Panamelo - Programación, diseño
+*Jorge Enrique Panameño - Programación, diseño
 
 *Axel Steven Chavarria - Programación, diseño
 
