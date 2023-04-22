@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contactanos</title>
+    <link rel="stylesheet" href="./CSS/estilocontactanos.css">
+  </head>
+  <body>
+    <h1>Contactanos</h1>
+    <form class="form-soporte">
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" name="nombre" required placeholder="Escriba su nombre">
+
+      <label for="email">Correo electronico:</label>
+      <input type="text" id="email" name="email" required placeholder="Escriba su correo electronico">
+
+      <label for="asunto">Asunto:</label>
+      <input type="text" id="asunto" name="asunto" required placeholder="Escriba su asunto">
+
+      <label for="mensaje">Mensaje:</label>
+      <textarea id="mensaje" name="mensaje" required placeholder="Escriba su mensaje"></textarea>
+
+      <button type="submit" class="form-btn">Enviar mensaje</button>
+    </form>
+    <button id="boton-volver" onclick="location.href='paginaweb.html'">Volver a la página principal</button>
+  </body>
+</html>

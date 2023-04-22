@@ -1,0 +1,73 @@
+body{
+  background-image: url(https://i.gifer.com/3HeZ.gif);
+  
+}
+
+#soluciones {
+  background-image: url(https://i.gifer.com/3HeZ.gif);
+  background-color: #000;
+  padding: 20px;
+}
+
+#soluciones h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+
+#soluciones h3 {
+  font-size: 20px;
+  color: rgba(255, 217, 0, 0.781);
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+#soluciones p {
+  text-align: center;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+#boton-volver {
+  display: block;
+  margin-top: 20px;
+  background-color: #0f0;
+  color: #000;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position:relative;
+  left: 42%;
+}
+
+#boton-volver:hover {
+  background-color: #000;
+  color: #0f0;
+}
+.accordion {
+  border: 1px solid #0f0;
+  margin: 20px 0;
+}
+.accordion-item {
+  border-bottom: 1px solid #0f0;
+}
+.accordion-header {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px;
+  cursor: pointer;
+}
+.accordion-content {
+  padding: 10px;
+  display: none;
+}
+.accordion-item.active .accordion-content {
+  display: block;
+}
+
+
