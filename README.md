@@ -17,13 +17,11 @@
 
 
 
-#2 *[Enlace a  Manual Usuario] https://github.com/mike50561/proyecto-catedra-LME-El-Master-Pc/blob/main/Manual%20de%20usuario.pdf
+#2 *[Enlace a  Manual Usuario]  https://github.com/mike50561/proyecto-catedra-LME-El-Master-Pc/blob/aa8c2c0b2b0c41d9d4f0fa988eb7bdd9845fdb5c/Manual%20de%20usuario.pdf
 
 
 
-#3 *[Enlace a Manual Tecnico] https://github.com/mike50561/proyecto-catedra-LME-El-Master-Pc/blob/main/EL%20MASTER%20PC%20manual%20tecnico%202.0.pdf
-
-
+#3 *[Enlace a Manual Tecnico]  https://github.com/mike50561/proyecto-catedra-LME-El-Master-Pc/blob/aa8c2c0b2b0c41d9d4f0fa988eb7bdd9845fdb5c/EL%20MASTER%20PC%20manual%20tecnico%202.0.pdf
 
 #Enlaces de interés 👀
 
