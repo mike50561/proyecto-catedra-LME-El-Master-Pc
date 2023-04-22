@@ -9,7 +9,7 @@
 
 *Elmer Rolando Rivas Citala - Programación, diseño
 
-*Diego Alberto Canizalez Galán - Programación, diseño
+*Diego Alberto Canizalez Galán - Programación
 
 *Jorge Enrique Panameño - Programación, diseño
 
