@@ -3,9 +3,11 @@
 Creacion de una Pagina Web Titulada El Master PC,  Universidad Don Bosco, El Salvador
 
 Herramientas 🛠️
+
 [Visual Studio code] https://code.visualstudio.com/Download   como lenguaje de programación
 
 Autores ✒️
+
 Miguel Angel Herrera - Programación, diseño
 
 Elmer Rolando Rivas - Programación, diseño
