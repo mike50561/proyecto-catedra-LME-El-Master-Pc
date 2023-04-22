@@ -1,0 +1,95 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+  }
+  div h1{
+    text-align: center;
+    position: relative;
+    left: 240px;
+    margin-top: 50px;
+    font-size: 48px;
+    color: #061df0;
+  }
+  div img{
+    height: 150px;
+    position: relative;
+    left: 40px;
+  }
+.contenedor{
+  display: flex;
+}
+  .presentador img{
+    position: relative;
+    left: 210px;
+    height: 290px;
+  }
+  nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #fff;
+    color: #333;
+  }
+  
+  section {
+    margin: 50px auto;
+    max-width: 800px;
+    padding: 30px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  section h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 20px;
+  }
+  
+  section p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  section a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  section a:hover {
+    text-decoration: underline;
+  }
+  
+/* Estilos para el footer */
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+
+

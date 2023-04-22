@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/estilosoporte.css">
+    <title>Soporte Tecnico</title>
+</head>
+<body>
+    <section class="section-soporte">
+        <div class="container">
+          <h2 class="section-title">Soporte técnico</h2>
+          <p class="section-desc">En esta sección, puede obtener ayuda con un problema técnico específico que está experimentando. Simplemente complete el formulario a continuación y nuestro equipo de soporte se comunicará con usted lo antes posible para ayudarlo a resolver el problema.</p>
+          <form class="form-soporte">
+            <label for="nombre" class="form-label">Nombre:</label>
+            <input type="text" id="nombre" name="nombre" class="form-input" required>
+            
+            <label for="correo" class="form-label">Correo electrónico:</label>
+            <input type="email" id="correo" name="correo" class="form-input" required>
+            
+            <label for="problema" class="form-label">Describa su problema:</label>
+            <textarea id="problema" name="problema" class="form-input form-textarea" required></textarea>
+            
+            <button type="submit" class="form-btn">Enviar</button>
+          </form>
+        </div>
+      </section>
+
+      <button id="boton-volver" onclick="location.href='paginaweb.html'">Volver a la página principal</button>
+      
+      
+    
+</body>
+</html>

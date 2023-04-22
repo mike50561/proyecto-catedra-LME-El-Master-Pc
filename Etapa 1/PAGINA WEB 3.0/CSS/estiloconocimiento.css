@@ -1,0 +1,44 @@
+#soluciones {
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  #soluciones h2 {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  #soluciones ol {
+    list-style-type: decimal;
+    margin-left: 40px;
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  #soluciones li {
+    margin-bottom: 30px;
+  }
+  #soluciones h3 {
+    font-size: 24px;
+    color: #008080;
+    margin-bottom: 10px;
+  }
+  #soluciones p {
+    color: #666;
+  }
+  #boton-volver {
+    display: block;
+    margin-top: 20px;
+    background-color: #EEE;
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  #boton-volver:hover {
+    background-color: #333;
+    color: #FFF;
+  }
