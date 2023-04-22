@@ -1,4 +1,4 @@
-## proyecto-catedra-LME-El-Master-Pc##
+# proyecto-catedra-LME-El-Master-Pc
 
 *Creacion de una Pagina Web Titulada El Master PC,  Universidad Don Bosco, El Salvador
 
@@ -6,7 +6,7 @@
 
 *[Visual Studio code] https://code.visualstudio.com/Download   como lenguaje de programación
 
-##Autores## ✒️
+#Autores ✒️
 
 *Miguel Angel Herrera - Programación, diseño
 
@@ -27,7 +27,7 @@ Usted es libre de: Compartir — copiar y redistribuir el material en cualquier 
 
 
 
-##Enlaces de interés## 👀
+#Enlaces de interés 👀
 
 *[Tablero en Trello] https://trello.com/b/EfMchQY2/proyecto-lme
 
