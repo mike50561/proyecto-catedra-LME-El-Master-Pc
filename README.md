@@ -13,7 +13,7 @@
 
 *Jorge Enrique Panameño - Programación, diseño
 
-*Axel Steven Chavarria - Programación, diseño
+*Axel Steven Chavarria Hernandez- Programación, diseño
 
 
 
