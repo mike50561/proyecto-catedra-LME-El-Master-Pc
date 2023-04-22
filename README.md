@@ -7,7 +7,7 @@
 
 *Miguel Angel Herrera - Programación, diseño
 
-*Elmer Rolando Rivas - Programación, diseño
+*Elmer Rolando Rivas Citala - Programación, diseño
 
 *Diego Alberto Canizalez - Programación, diseño
 
