@@ -36,7 +36,7 @@
 *[Enlace a Mockups] - https://www.figma.com/file/jIEq8Zc8N76wBPPl7nnpvG/Untitled?node-id=0%3A1&t=6lYG44PXbkx5KQdi-1
 
 
-*[Enlace a pagina web]   https://drive.google.com/drive/folders/1fEI3w68nV_oXKLpVY5QBBYPO2BCksUS6?usp=sharing
+*[Enlace a pagina web]   https://drive.google.com/drive/folders/1PsqQBTEnkwzLoCBAfCe_NAmYpepaukRl?usp=sharing
 
 
 #Licencia 📄
