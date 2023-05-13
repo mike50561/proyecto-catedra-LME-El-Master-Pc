@@ -22,7 +22,7 @@
 
 
 
-#3 *[Enlace a Manual Tecnico]  https://drive.google.com/file/d/1SPcXHRIzVcEGv7PTTasQawFXUu4fn76P/view?usp=sharing
+#3 *[Enlace a Manual Tecnico]  https://drive.google.com/file/d/1EFZVEDbovWkt4xSSVoKT051WStF8bSqk/view
 
 
 
